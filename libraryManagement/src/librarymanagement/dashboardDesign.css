@@ -1,0 +1,173 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 08 4, 22, 8:55:58 PM
+    Author     : WINDOWS 10
+*/
+
+.top-form{
+    -fx-background-color:#fff;
+    -fx-border-color:#000;
+    -fx-border-width:.2px .2px .5px .2px;
+}
+
+.semiTop-form{
+    -fx-border-color:#000;
+    -fx-border-width:0px 0px .5px 0px;
+}
+
+.close-btn{
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+}
+.close-btn:hover{
+    -fx-background-color:#f13f57;
+}
+
+.minimize-btn{
+    -fx-background-color:transparent;
+    -fx-cursor: hand;
+}
+.minimize-btn:hover{
+    -fx-background-color:#dddddd;
+}
+
+.bars{
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+}
+
+.bars:hover{
+    -fx-background-color:#d6d6d6;
+    -fx-background-radius:5px;
+
+}
+
+.nav-form{
+    -fx-background-color:linear-gradient(to bottom right, #252d50, #324f6b);
+}
+
+.edit-btn{
+    -fx-background-color:transparent;
+    -fx-cursor:hand;
+    -fx-padding:60px 0px 0px 0px;
+}
+
+.nav-btn{
+    -fx-background-color:linear-gradient(to bottom right, #344275, #3a6389);
+    -fx-background-radius:5px;
+    -fx-cursor:hand;
+    -fx-font-size:15px;
+    -fx-text-fill:#fff;
+    -fx-font-family:"Microsoft Sans Serif";
+}
+
+.nav-btn:hover{
+    -fx-background-color:linear-gradient(to bottom right, #46589a, #4278a7);
+    -fx-background-radius:5px;
+}
+
+.logout-btn{
+    -fx-background-color:#366d9d;
+    -fx-background-radius:10px;
+    -fx-cursor:hand;
+}
+.logout-btn:hover{
+    -fx-background-color:#396fc6;
+    -fx-background-radius:10px;
+}
+
+.card-form{
+    -fx-background-color:#f8f8f8;
+    -fx-border-color:#454368;
+    -fx-border-radius:10px;
+    -fx-background-radius:10px;
+}
+
+.image-card{
+    -fx-background-color:#fff;
+    -fx-border-color:#000;
+}
+
+.save-btn{
+    -fx-background-color:#558e74;
+    -fx-background-radius:15px;
+    -fx-font-size:15px;
+    -fx-cursor:hand;
+    -fx-text-fill:#fff;
+}
+.save-btn:hover{
+    -fx-background-color:#57b187;
+}
+
+.take-btn{
+    -fx-background-color:#914f96;
+    -fx-background-radius:15px;
+    -fx-cursor:hand;
+    -fx-font-size:15px;
+    -fx-text-fill:#fff;
+}
+.take-btn:hover{
+    -fx-background-color:#b356bb;
+}
+
+.textfield_take{
+    -fx-background-color:#fff;
+    -fx-background-radius:5px;
+    -fx-border-color:#000;
+    -fx-border-radius:5px;
+    -fx-border-width:.4px;
+    -fx-font-size:14px;
+}
+.textfield_take:focused{
+    -fx-border-width:.8px;
+}
+
+.label_take{
+    -fx-background-color:#fff;
+    -fx-padding:0px 0px 0px 8px;
+    -fx-font-size:14px;
+    -fx-border-color:#000;
+    -fx-border-radius:5px;
+    -fx-border-width:.4px;
+    -fx-background-radius:5px;
+}
+
+
+
+.clear-btn{
+    -fx-background-color:#376282;
+    -fx-background-radius:15px;
+    -fx-text-fill:#fff;
+    -fx-font-size:14px;
+    -fx-cursor:hand;
+}
+.clear-btn:hover{
+    -fx-background-color:#4386b5;
+}
+
+.return-btn{
+    -fx-background-color:#31647f;
+    -fx-background-radius:15px;
+    -fx-cursor:hand;
+    -fx-text-fill:#fff;
+    -fx-font-size:15px;
+}
+.return-btn:hover{
+    -fx-background-color:#3686ae;
+}
+
+.unsave-btn{
+    -fx-background-color:#8c2d2d;
+    -fx-background-radius:15px;
+    -fx-text-fill:#fff;
+    -fx-font-size:14px;
+    -fx-cursor:hand;
+}
+.unsave-btn:hover{
+    -fx-background-color:#c54d5d;
+}
+
